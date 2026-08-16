@@ -1,0 +1,1 @@
+Added a visible LIVE CHAT label to the floating chat widget on the site pages. The label is responsive and positioned beside the floating chat control.
